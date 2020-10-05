@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/proyecto-modulo3_frontend-deploy/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/proyecto-modulo3_frontend-deploy/static/js/main.87771c63.chunk.js",
+    "main.js.map": "/proyecto-modulo3_frontend-deploy/static/js/main.87771c63.chunk.js.map",
+    "runtime-main.js": "/proyecto-modulo3_frontend-deploy/static/js/runtime-main.b7313169.js",
+    "runtime-main.js.map": "/proyecto-modulo3_frontend-deploy/static/js/runtime-main.b7313169.js.map",
+    "static/js/2.cb927320.chunk.js": "/proyecto-modulo3_frontend-deploy/static/js/2.cb927320.chunk.js",
+    "static/js/2.cb927320.chunk.js.map": "/proyecto-modulo3_frontend-deploy/static/js/2.cb927320.chunk.js.map",
+    "index.html": "/proyecto-modulo3_frontend-deploy/index.html",
+    "precache-manifest.1737134a1dcd1de95e0064231fb5e542.js": "/proyecto-modulo3_frontend-deploy/precache-manifest.1737134a1dcd1de95e0064231fb5e542.js",
+    "service-worker.js": "/proyecto-modulo3_frontend-deploy/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/proyecto-modulo3_frontend-deploy/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.cb927320.chunk.js.LICENSE.txt": "/proyecto-modulo3_frontend-deploy/static/js/2.cb927320.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7313169.js",
+    "static/js/2.cb927320.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.87771c63.chunk.js"
+  ]
+}
